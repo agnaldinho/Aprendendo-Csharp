@@ -1,0 +1,15 @@
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\bin\Debug\net7.0\Exercicio_while.exe
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\bin\Debug\net7.0\Exercicio_while.deps.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\bin\Debug\net7.0\Exercicio_while.runtimeconfig.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\bin\Debug\net7.0\Exercicio_while.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\bin\Debug\net7.0\Exercicio_while.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.csproj.AssemblyReference.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.AssemblyInfoInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.AssemblyInfo.cs
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.csproj.CoreCompileInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\refint\Exercicio_while.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\Exercicio_while.genruntimeconfig.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_while\Exercicio_while\obj\Debug\net7.0\ref\Exercicio_while.dll

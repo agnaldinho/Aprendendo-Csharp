@@ -1,0 +1,15 @@
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\bin\Debug\net7.0\Exercicio_estrutura.exe
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\bin\Debug\net7.0\Exercicio_estrutura.deps.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\bin\Debug\net7.0\Exercicio_estrutura.runtimeconfig.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\bin\Debug\net7.0\Exercicio_estrutura.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\bin\Debug\net7.0\Exercicio_estrutura.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.csproj.AssemblyReference.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.AssemblyInfoInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.AssemblyInfo.cs
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.csproj.CoreCompileInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\refint\Exercicio_estrutura.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\Exercicio_estrutura.genruntimeconfig.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_estrutura\Exercicio_estrutura\obj\Debug\net7.0\ref\Exercicio_estrutura.dll

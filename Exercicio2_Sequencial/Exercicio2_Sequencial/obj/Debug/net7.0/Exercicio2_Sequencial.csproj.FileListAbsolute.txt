@@ -1,0 +1,15 @@
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\bin\Debug\net7.0\Exercicio2_Sequencial.exe
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\bin\Debug\net7.0\Exercicio2_Sequencial.deps.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\bin\Debug\net7.0\Exercicio2_Sequencial.runtimeconfig.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\bin\Debug\net7.0\Exercicio2_Sequencial.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\bin\Debug\net7.0\Exercicio2_Sequencial.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.csproj.AssemblyReference.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.AssemblyInfoInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.AssemblyInfo.cs
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\refint\Exercicio2_Sequencial.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\Exercicio2_Sequencial.genruntimeconfig.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio2_Sequencial\Exercicio2_Sequencial\obj\Debug\net7.0\ref\Exercicio2_Sequencial.dll

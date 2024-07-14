@@ -1,0 +1,14 @@
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\bin\Debug\net8.0\ExercicioAula48.exe
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\bin\Debug\net8.0\ExercicioAula48.deps.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\bin\Debug\net8.0\ExercicioAula48.runtimeconfig.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\bin\Debug\net8.0\ExercicioAula48.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\bin\Debug\net8.0\ExercicioAula48.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ExercicioAula48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ExercicioAula48.AssemblyInfoInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ExercicioAula48.AssemblyInfo.cs
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ExercicioAula48.csproj.CoreCompileInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ExercicioAula48.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\refint\ExercicioAula48.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ExercicioAula48.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ExercicioAula48.genruntimeconfig.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\ExercicioAula48\ExercicioAula48\obj\Debug\net8.0\ref\ExercicioAula48.dll

@@ -1,0 +1,15 @@
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\bin\Debug\net7.0\Aula4_Comparacao.exe
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\bin\Debug\net7.0\Aula4_Comparacao.deps.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\bin\Debug\net7.0\Aula4_Comparacao.runtimeconfig.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\bin\Debug\net7.0\Aula4_Comparacao.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\bin\Debug\net7.0\Aula4_Comparacao.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.csproj.AssemblyReference.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.AssemblyInfoInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.AssemblyInfo.cs
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.csproj.CoreCompileInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\refint\Aula4_Comparacao.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\Aula4_Comparacao.genruntimeconfig.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula4_Comparacao\Aula4_Comparacao\obj\Debug\net7.0\ref\Aula4_Comparacao.dll

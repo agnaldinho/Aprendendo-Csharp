@@ -1,0 +1,15 @@
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\bin\Debug\net7.0\Exercicio_for.exe
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\bin\Debug\net7.0\Exercicio_for.deps.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\bin\Debug\net7.0\Exercicio_for.runtimeconfig.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\bin\Debug\net7.0\Exercicio_for.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\bin\Debug\net7.0\Exercicio_for.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.csproj.AssemblyReference.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.AssemblyInfoInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.AssemblyInfo.cs
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.csproj.CoreCompileInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\refint\Exercicio_for.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\Exercicio_for.genruntimeconfig.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Exercicio_for\Exercicio_for\obj\Debug\net7.0\ref\Exercicio_for.dll

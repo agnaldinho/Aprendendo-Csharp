@@ -1,0 +1,15 @@
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\bin\Debug\net7.0\Aula1.exe
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\bin\Debug\net7.0\Aula1.deps.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\bin\Debug\net7.0\Aula1.runtimeconfig.json
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\bin\Debug\net7.0\Aula1.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\bin\Debug\net7.0\Aula1.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.csproj.AssemblyReference.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.AssemblyInfoInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.AssemblyInfo.cs
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\refint\Aula1.dll
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.pdb
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\Aula1.genruntimeconfig.cache
+C:\Users\Agnal\OneDrive\Área de Trabalho\C#\Aula1\Aula1\obj\Debug\net7.0\ref\Aula1.dll
